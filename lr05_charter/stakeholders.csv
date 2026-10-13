@@ -1,1 +1,8 @@
 stakeholder_id,name_or_role,organization,interest,influence,attitude,strategy,owner
+ST-01,Завідувач кафедри (замовник),кафедра,high,high,supporter,manage_closely,PM
+ST-02,Університетська служба хостингу і доменів,IT-служба університету,low,high,neutral,keep_satisfied,PM
+ST-03,Працівник кафедри відповідальний за новини і сторінку вступнику,кафедра,high,low,supporter,keep_informed,BA
+ST-04,Викладачі кафедри які про сайт не просили,кафедра,low,high,blocker,keep_satisfied,UX
+ST-05,Нинішній єдиний редактор сайту (правки в коді),кафедра,high,high,neutral,manage_closely,PM
+ST-06,Вступники і їхні батьки,зовнішні відвідувачі сайту,low,low,supporter,monitor,UX
+ST-07,Секретар приймальної комісії,приймальна комісія університету,high,low,supporter,keep_informed,BA
