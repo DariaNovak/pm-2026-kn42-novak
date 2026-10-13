@@ -14,7 +14,7 @@
 | Підгрупа | КН-42 |
 | Тема проєкту | Сайт кафедри з редагуванням контенту силами кафедри без розробника.|
 | Варіант вхідних умов | V05 |
-| Трекер | Jira Cloud, проєкт KAN: https://oa-team-cgwq9k99.atlassian.net/jira/software/projects/KAN |
+| Трекер | Jira Cloud: Kanban-дошка робіт KAN (ЛР4) і Scrum-проєкт продукту P2KNL6 (беклог, спринти): https://oa-team-cgwq9k99.atlassian.net/browse/P2KNL6 |
 | Дошка | https://oa-team-cgwq9k99.atlassian.net/jira/software/projects/KAN/boards |
 | Валюта проєкту | для кошторису ЛР16 |
 | Contingency, % | від прямих витрат, ЛР16 |
