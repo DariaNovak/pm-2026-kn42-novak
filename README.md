@@ -16,8 +16,8 @@
 | Варіант вхідних умов | V05 |
 | Трекер | Jira Cloud: Kanban-дошка робіт KAN (ЛР4) і Scrum-проєкт продукту P2KNL6 (беклог, спринти): https://oa-team-cgwq9k99.atlassian.net/browse/P2KNL6 |
 | Дошка | https://oa-team-cgwq9k99.atlassian.net/jira/software/projects/KAN/boards |
-| Валюта проєкту | для кошторису ЛР16 |
-| Contingency, % | від прямих витрат, ЛР16 |
+| Валюта проєкту | гривня (грн) |
+| Contingency, % | 5 |
 
 ## Як влаштований репозиторій
 
